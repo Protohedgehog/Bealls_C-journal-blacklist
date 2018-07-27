@@ -1,4 +1,4 @@
-# Beall-s'-C list 2.0 for predatory publishers
+# Beall's-C list 2.0 for predatory publishers
 
 Welcome!
 
