@@ -6,6 +6,14 @@ This project intends to create an Open Access community managed alternative to t
 
 [Contact](mailto:jon.tennant.2@gmail.com)
 
+## Contributors 
+
+ADD YOUR NAME AND TWITTER/CONTACT BELOW - use the little edit button just up and to the right of here.
+
+* [Jon Tennant](https://twitter.com/protohedgehog)
+* 
+* 
+
 ## Rough protocol
 
 1. Find a copy of Beall's original criteria
