@@ -2,7 +2,7 @@
 
 Welcome!
 
-This project intends to create an Open Access community managed alternative to the infamous 'Beall's list' of 'predatory publishers'.
+This project intends to create an Open Access community managed alternative to the infamous 'Beall's list' of 'predatory publishers'. Blacklists are generally not great for this sort of thing, but Beall's list is widely used still. So, instead of using a list based on criteria that have been shown to be deeply flawed, why not build one that's actually decent for people who insist on using blacklists anyway?
 
 [Contact](mailto:jon.tennant.2@gmail.com)
 
