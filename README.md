@@ -1,4 +1,6 @@
-# Beall-s-C_journal_blacklist
+# Beall-s'-C list 2.0 for predatory publishers
+
+Welcome!
 
 This project intends to create an Open Access community managed alternative to the infamous 'Beall's list' of 'predatory publishers'.
 
